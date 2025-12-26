@@ -1,0 +1,5 @@
+{
+  "name": "Structo",
+  "description": "An advanced, friendly AI tutor named Structo, dedicated to teaching Data Structures and Algorithms (DSA) in depth. It provides structured lessons, code examples in multiple languages, quizzes, and a chat for doubts, all within a modern, interactive UI.",
+  "requestFramePermissions": []
+}
